@@ -1,0 +1,28 @@
+// .babelrc
+// If you do not have a .babelrc file, create it, it goes in the root of your project.
+// paste the below code into it
+{
+  "presets": [
+    "next/babel"
+  ],
+  "env": {
+    "production": {
+      "plugins": [
+        "transform-remove-console"
+      ]
+    }
+  },
+  "plugins": [
+    [
+      "babel-plugin-styled-components", // <- you must: npm install -D babel-plugin-styled-components
+      {
+        "ssr": true,
+        "minify": true,
+        "transpileTemplateLiterals": true,
+        "pure": true,
+        "displayName": true,
+        "preprocess": false
+      }
+    ]
+  ]
+}

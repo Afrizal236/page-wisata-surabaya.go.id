@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Facebook",
+        "link": "https://www.facebook.com/sapawargakotasurabaya",
+        "img": "facebook.svg"
+    },
+    {
+        "title": "Twitter",
+        "link": "https://twitter.com/sapawargasby",
+        "img": "twitter.svg"
+    },
+    {
+        "title": "Instagram",
+        "link": "https://www.instagram.com/sapawargasby",
+        "img": "instagram.svg"
+    },
+    {
+        "title": "Youtube",
+        "link": "https://www.youtube.com/user/MediaCenterPemkotSby",
+        "img": "youtube.svg"
+    }
+]

@@ -1,0 +1,235 @@
+[
+    {
+        "title": "Mengenal Surabaya",
+        "url": "#",
+        "level": 0,
+        "child": [
+            {
+                "title": "Tentang Surabaya",
+                "url": "/page/0/1/sekilas-tentang-surabaya",
+                "child": []
+            },
+            {
+                "title": "Pemerintahan",
+                "url": "#",
+                "child": [
+                    {
+                        "title": "Visi & Misi",
+                        "url": "/page/0/11/visi-misi-kota-surabaya",
+                        "child": []
+                    },
+                    {
+                        "title": "Struktur Organisasi Pemerintah Kota Surabaya",
+                        "url": "#",
+                        "child": []
+                    },
+                    {
+                        "title": "Perangkat Daerah",
+                        "url": "#",
+                        "child": []
+                    },
+                    {
+                        "title": "Profil Walikota Surabaya",
+                        "url": "#",
+                        "child": []
+                    },
+                    {
+                        "title": "Alamat Pemerintah Kota Surabaya",
+                        "url": "#",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "title": "Ada Apa di Surabaya ?",
+                "url": "#",
+                "child": [
+                    {
+                        "title": "Transportasi",
+                        "url": "#",
+                        "child": []
+                    },
+                    {
+                        "title": "Bisnis & Investasi",
+                        "url": "#",
+                        "child": []
+                    },
+                    {
+                        "title": "Akomodasi",
+                        "url": "#",
+                        "child": []
+                    },
+                    {
+                        "title": "Wisata",
+                        "url": "#",
+                        "child": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Layanan Publik",
+        "url": "#",
+        "child": [
+            {
+                "title": "Pengaduan Masyarakat",
+                "url": "#",
+                "child": [
+                    {
+                        "title": "Media Center",
+                        "url": "#",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "title": "Perizinan",
+                "url": "#",
+                "child": [
+                    {
+                        "title": "SSW Alfa",
+                        "url": "#",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "title": "Kesehatan",
+                "url": "#",
+                "child": [
+                    {
+                        "title": "E-Health",
+                        "url": "#",
+                        "child": []
+                    },
+                    {
+                        "title": "Lawan Covid",
+                        "url": "#",
+                        "child": []
+                    },
+                    {
+                        "title": "Wadul Sertifikat Vaksin",
+                        "url": "#",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "title": "Pendidikan",
+                "url": "#",
+                "child": [
+                    {
+                        "title": "Profil Sekolah",
+                        "url": "#",
+                        "child": []
+                    },
+                    {
+                        "title": "Rapor Online",
+                        "url": "#",
+                        "child": []
+                    },
+                    {
+                        "title": "Sistem Informasi Aplikasi Guru",
+                        "url": "#",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "title": "Sosial Masyarakat",
+                "url": "#",
+                "child": [
+                    {
+                        "title": "E-Pemutakhiran Data",
+                        "url": "#",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "title": "Kependudukan",
+                "url": "#",
+                "child": [
+                    {
+                        "title": "KLAMPID Surabaya",
+                        "url": "#",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "title": "Pemberdayaan Ekonomi",
+                "url": "#",
+                "child": [
+                    {
+                        "title": "E-Peken Surabaya",
+                        "url": "#",
+                        "child": []
+                    }
+                ]
+            },
+            {
+                "title": "WhistleBlowing System",
+                "url": "#",
+                "child": []
+            }
+        ]
+    },
+    {
+        "title": "Informasi Publik",
+        "url": "#",
+        "child": [
+            {
+                "title": "JDIH",
+                "url": "#",
+                "child": []
+            },
+            {
+                "title": "PPID",
+                "url": "#",
+                "child": []
+            },
+            {
+                "title": "Open Data",
+                "url": "#",
+                "child": []
+            },
+            {
+                "title": "Satu Peta",
+                "url": "#",
+                "child": []
+            },
+            {
+                "title": "Foto",
+                "url": "/photos",
+                "child": []
+            },
+            {
+                "title": "Video",
+                "url": "/videos",
+                "child": []
+            },
+            {
+                "title": "Infografis",
+                "url": "/infografis",
+                "child": []
+            },
+            {
+                "title": "Podcast",
+                "url": "/podcasts",
+                "child": []
+            },
+            {
+                "title": "Berita Terbaru",
+                "url": "/news",
+                "child": []
+            },
+            {
+                "title": "Siaran Pers",
+                "url": "/pers",
+                "child": []
+            }
+        ]
+    }
+]

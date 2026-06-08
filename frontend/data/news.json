@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Penyesuian Jam Operasional UPTD Museum dan Gedung Seni Budaya",
+        "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+        "image": "img1.jpg",
+        "date": "2022-01-22"
+    },
+    {
+        "title": "Lomba Desain Batik Kota Surabaya",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+        "image": "img2.jpg",
+        "date": "Minggu, 03 April 2022"
+    },
+    {
+        "title": "Surabaya Menuju Eliminasi TBC",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+        "image": "img3.jpg",
+        "date": "Sabtu, 02 April 2022"
+    },
+    {
+        "title": "Kejuaraan Bola Voli Piala Wali Kota antar Bank dan Instansi",
+        "description": "",
+        "image": "img4.jpg",
+        "date": "Senin, 28 Maret 2022"
+    },
+    {
+        "title": "Ayo Belajar Bahasa bersama Rumah Bahasa",
+        "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur",
+        "image": "img5.jpg",
+        "date": "Jum'at, 25 Maret 2022"
+    },
+    {
+        "title": "Prosedur Pelayanan Kesehatan untuk Calon Pengantin",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+        "image": "img6.jpg",
+        "date": "Rabu, 23 Maret 2022"
+    }
+]
